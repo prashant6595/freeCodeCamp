@@ -3,8 +3,7 @@ title: Acceptance Testing
 ---
 
 ## Acceptance Testing
-
-ACCEPTANCE TESTING is a level of software testing where a system is tested for acceptability. The purpose of this test is to evaluate the system's compliance with the business requirements and assess whether it is acceptable for delivery. Definition by ISTQB.
+Acceptance testing is a level of software testing where system is tested for capability and the purpose of this test is to evaluate the system's compilance with business requirements and assess whether it is acceptable for delivery. 
 
 Acceptance testing, a testing technique performed to determine whether or not the software system has met the requirement specifications. The main purpose of this test is to evaluate the system's compliance with the business requirements and verify if it is has met the required criteria for delivery to end users.
 
